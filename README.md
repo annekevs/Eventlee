@@ -1,1 +1,4 @@
-A mobile app for event management
+A mobile app to view events.
+
+![screenshot](eventlee-home.jpg)
+
