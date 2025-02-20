@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611662655346",
+    "project_id": "eventlee-88169",
+    "storage_bucket": "eventlee-88169.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611662655346:android:6eb9b05f938e7bc80f77eb",
+        "android_client_info": {
+          "package_name": "com.example.eventlee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0EeqyYec9lH9moknBLIUpDTar476rjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
